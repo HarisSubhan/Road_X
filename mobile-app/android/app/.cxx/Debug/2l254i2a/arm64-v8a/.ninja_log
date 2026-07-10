@@ -1,0 +1,16 @@
+# ninja log v5
+26	138	0	C:/Users/haris/CascadeProjects/roadx/mobile-app/android/app/.cxx/Debug/2l254i2a/arm64-v8a/CMakeFiles/cmake.verify_globs	8e74facdc9ae5bca
+139	1106	8039153658939262	build.ninja	44aa25c0a9d657ee
+3	48	0	C:/Users/haris/CascadeProjects/roadx/mobile-app/android/app/.cxx/Debug/2l254i2a/arm64-v8a/CMakeFiles/cmake.verify_globs	8e74facdc9ae5bca
+181	11767	8039153780594755	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	f0ccc32369453283
+207	13162	8039153794339154	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/796ad459e5c56493b6ccb0d610a9a963/RNVectorIconsSpecJSI-generated.cpp.o	bda4643e1814b450
+62	13215	8039153794889285	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/58381992a0eabee7f5d1c841496290f0/react/renderer/components/rnscreens/RNSScreenState.cpp.o	4e2d5360d89f7e4d
+168	15055	8039153812531713	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	f901e11f1b54320b
+195	15958	8039153822633718	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	6aa890ef1c493795
+221	16374	8039153826889923	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	5ecaeb355aaf0af7
+39	17870	8039153841702761	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/105205edee52faf9d73a77fa70ef61b7/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o	35e6252c7e4922f2
+11779	17882	8039153841990301	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	5126d7eaebf013c4
+143	18321	8039153846261004	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cc55826edf941a5c
+13184	18945	8039153852661271	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/e9ea868e549346e26fae8eb32056fb9c/renderer/components/rnscreens/rnscreensJSI-generated.cpp.o	706ef09520e4dd74
+118	20089	8039153863862330	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/b58d6aba0c8002a5cb0aa97525b528da/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o	8550869b6fddcc4e
+130	20718	8039153870232279	rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/105205edee52faf9d73a77fa70ef61b7/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o	5640a08269afce3b

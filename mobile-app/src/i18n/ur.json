@@ -1,0 +1,111 @@
+{
+  "auth": {
+    "phone": "فون نمبر",
+    "sendOtp": "OTP بھیجیں",
+    "otpSent": "OTP کامیابی سے بھیج دیا گیا",
+    "enterOtp": "OTP درج کریں",
+    "verify": "تصدیق کریں",
+    "resend": "دوبارہ بھیجیں",
+    "invalidOtp": "غلط OTP",
+    "otpExpired": "OTP کی مدت ختم ہو گئی",
+    "login": "لاگ ان",
+    "logout": "لاگ آؤٹ"
+  },
+  "onboarding": {
+    "selectLanguage": "زبان منتخب کریں",
+    "english": "English",
+    "urdu": "اردو",
+    "continue": "جاری رکھیں",
+    "requestService": "سروس کی درخواست کریں",
+    "provideService": "سروس فراہم کریں"
+  },
+  "home": {
+    "searching": "قریبی فراہم کنندگان کی تلاش جاری ہے...",
+    "myLocation": "میری جگہ",
+    "selectService": "ایک سروس منتخب کریں"
+  },
+  "services": {
+    "fuelDelivery": "ایندھن کی ترسیل",
+    "carTowing": "کار ٹوونگ",
+    "bikeMechanic": "بائیک مکینک",
+    "carMechanic": "کار مکینک",
+    "batteryJumpstart": "بیٹری جمپ اسٹارٹ",
+    "tireChange": "ٹائر تبدیلی",
+    "keyUnlock": "چابی انلاک"
+  },
+  "booking": {
+    "confirmRequest": "درخواست کی تصدیق کریں",
+    "pickupAddress": "پک اپ ایڈریس",
+    "estimatedFare": "تخمینی کرایہ",
+    "paymentMethod": "ادائیگی کا طریقہ",
+    "cash": "نقد",
+    "jazzcash": "جاز کیش",
+    "easypaisa": "ایزی پیسہ",
+    "additionalInfo": "اضافی معلومات"
+  },
+  "tracking": {
+    "liveTracking": "لائیو ٹریکنگ",
+    "providerArriving": "فراہم کنندہ راستے میں ہے",
+    "providerArrived": "فراہم کنندہ پہنچ گیا",
+    "serviceInProgress": "سروس جاری ہے",
+    "completed": "مکمل ہو گیا",
+    "callProvider": "فراہم کنندہ کو کال کریں",
+    "messageProvider": "فراہم کنندہ کو پیغام بھیجیں",
+    "cancel": "منسوخ کریں"
+  },
+  "payment": {
+    "confirmCash": "نقد ادائیگی کی تصدیق کریں",
+    "paymentSuccessful": "ادائیگی کامیاب",
+    "initiatePayment": "ادائیگی شروع کریں"
+  },
+  "rating": {
+    "rateProvider": "فراہم کنندہ کو ریٹ کریں",
+    "submitRating": "ریٹنگ جمع کروائیں",
+    "skip": "چھوڑیں",
+    "professional": "پیشہ ورانہ",
+    "fast": "تیز",
+    "polite": "مہذب",
+    "review": "جائزہ لکھیں"
+  },
+  "history": {
+    "orderHistory": "آرڈر کی تاریخ",
+    "noOrders": "ابھی تک کوئی آرڈر نہیں",
+    "bookingRef": "بکنگ ریفرنس",
+    "date": "تاریخ",
+    "fare": "کرایہ"
+  },
+  "profile": {
+    "editProfile": "پروفائل ایڈٹ کریں",
+    "language": "زبان",
+    "notifications": "نوٹیفیکیشنز",
+    "helpCenter": "مدد مرکز",
+    "callSupport": "سپورٹ کو کال کریں",
+    "terms": "خدمات کی شرائط",
+    "privacy": "رازداری کی پالیسی",
+    "appVersion": "ایپ ورژن"
+  },
+  "provider": {
+    "goOnline": "آن لائن جائیں",
+    "goOffline": "آف لائن جائیں",
+    "earnings": "آمدنی",
+    "jobs": "ملازمتیں",
+    "rating": "ریٹنگ",
+    "incomingRequest": "آنے والی درخواست",
+    "accept": "قبول کریں",
+    "decline": "مسترد کریں",
+    "startNavigation": "نیویگیشن شروع کریں",
+    "arrived": "میں پہنچ گیا",
+    "startService": "سروس شروع کریں",
+    "markComplete": "مکمل کے طور پر نشان زد کریں"
+  },
+  "common": {
+    "loading": "لوڈ ہو رہا ہے...",
+    "error": "خرابی",
+    "retry": "دوبارہ کوشش کریں",
+    "cancel": "منسوخ کریں",
+    "confirm": "تصدیق کریں",
+    "back": "واپس",
+    "save": "محفوظ کریں",
+    "delete": "حذف کریں"
+  }
+}

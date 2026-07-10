@@ -1,0 +1,1 @@
+C:\Users\haris\CascadeProjects\roadx\mobile-app\android\app\build\intermediates\cxx\Debug\2l254i2a\obj\arm64-v8a

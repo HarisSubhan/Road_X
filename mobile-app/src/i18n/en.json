@@ -1,0 +1,111 @@
+{
+  "auth": {
+    "phone": "Phone Number",
+    "sendOtp": "Send OTP",
+    "otpSent": "OTP sent successfully",
+    "enterOtp": "Enter OTP",
+    "verify": "Verify",
+    "resend": "Resend",
+    "invalidOtp": "Invalid OTP",
+    "otpExpired": "OTP expired",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "onboarding": {
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "urdu": "اردو",
+    "continue": "Continue",
+    "requestService": "Request Service",
+    "provideService": "Provide Service"
+  },
+  "home": {
+    "searching": "Searching for nearby providers...",
+    "myLocation": "My Location",
+    "selectService": "Select a Service"
+  },
+  "services": {
+    "fuelDelivery": "Fuel Delivery",
+    "carTowing": "Car Towing",
+    "bikeMechanic": "Bike Mechanic",
+    "carMechanic": "Car Mechanic",
+    "batteryJumpstart": "Battery Jumpstart",
+    "tireChange": "Tire Change",
+    "keyUnlock": "Key Unlock"
+  },
+  "booking": {
+    "confirmRequest": "Confirm Request",
+    "pickupAddress": "Pickup Address",
+    "estimatedFare": "Estimated Fare",
+    "paymentMethod": "Payment Method",
+    "cash": "Cash",
+    "jazzcash": "JazzCash",
+    "easypaisa": "Easypaisa",
+    "additionalInfo": "Additional Information"
+  },
+  "tracking": {
+    "liveTracking": "Live Tracking",
+    "providerArriving": "Provider is on the way",
+    "providerArrived": "Provider has arrived",
+    "serviceInProgress": "Service in progress",
+    "completed": "Completed",
+    "callProvider": "Call Provider",
+    "messageProvider": "Message Provider",
+    "cancel": "Cancel"
+  },
+  "payment": {
+    "confirmCash": "Confirm Cash Payment",
+    "paymentSuccessful": "Payment Successful",
+    "initiatePayment": "Initiate Payment"
+  },
+  "rating": {
+    "rateProvider": "Rate Provider",
+    "submitRating": "Submit Rating",
+    "skip": "Skip",
+    "professional": "Professional",
+    "fast": "Fast",
+    "polite": "Polite",
+    "review": "Write a review"
+  },
+  "history": {
+    "orderHistory": "Order History",
+    "noOrders": "No orders yet",
+    "bookingRef": "Booking Ref",
+    "date": "Date",
+    "fare": "Fare"
+  },
+  "profile": {
+    "editProfile": "Edit Profile",
+    "language": "Language",
+    "notifications": "Notifications",
+    "helpCenter": "Help Center",
+    "callSupport": "Call Support",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "appVersion": "App Version"
+  },
+  "provider": {
+    "goOnline": "Go Online",
+    "goOffline": "Go Offline",
+    "earnings": "Earnings",
+    "jobs": "Jobs",
+    "rating": "Rating",
+    "incomingRequest": "Incoming Request",
+    "accept": "Accept",
+    "decline": "Decline",
+    "startNavigation": "Start Navigation",
+    "arrived": "I've Arrived",
+    "startService": "Start Service",
+    "markComplete": "Mark as Completed"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "buildFiles": [
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native-image-picker\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native-localize\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\haris\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\.cxx\\Debug\\2l254i2a\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\haris\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\.cxx\\Debug\\2l254i2a\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNVectorIconsSpec.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_imagemanager\\libs\\android.arm64-v8a\\libreact_render_imagemanager.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_image\\libs\\android.arm64-v8a\\librrc_image.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_mapbuffer\\libs\\android.arm64-v8a\\libreact_render_mapbuffer.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_componentregistry\\libs\\android.arm64-v8a\\libreact_render_componentregistry.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_utils\\libs\\android.arm64-v8a\\libreact_utils.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4": {
+      "artifactName": "react_codegen_RNImagePickerSpec",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNImagePickerSpec.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_imagemanager\\libs\\android.arm64-v8a\\libreact_render_imagemanager.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_image\\libs\\android.arm64-v8a\\librrc_image.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_mapbuffer\\libs\\android.arm64-v8a\\libreact_render_mapbuffer.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_componentregistry\\libs\\android.arm64-v8a\\libreact_render_componentregistry.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_utils\\libs\\android.arm64-v8a\\libreact_utils.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libappmodules.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\fabricjni\\libs\\android.arm64-v8a\\libfabricjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_newarchdefaults\\libs\\android.arm64-v8a\\libreact_newarchdefaults.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_legacyviewmanagerinterop\\libs\\android.arm64-v8a\\librrc_legacyviewmanagerinterop.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\runtimeexecutor\\libs\\android.arm64-v8a\\libruntimeexecutor.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_rnscreens.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_safeareacontext.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_rnasyncstorage.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNLocalizeSpec.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNImagePickerSpec.so",
+        "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNVectorIconsSpec.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_utils\\libs\\android.arm64-v8a\\libreact_utils.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_componentregistry\\libs\\android.arm64-v8a\\libreact_render_componentregistry.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_mapbuffer\\libs\\android.arm64-v8a\\libreact_render_mapbuffer.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_imagemanager\\libs\\android.arm64-v8a\\libreact_render_imagemanager.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_image\\libs\\android.arm64-v8a\\librrc_image.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "react_codegen_RNLocalizeSpec::@f3ba5298aff84514e205": {
+      "artifactName": "react_codegen_RNLocalizeSpec",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_RNLocalizeSpec.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_imagemanager\\libs\\android.arm64-v8a\\libreact_render_imagemanager.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_image\\libs\\android.arm64-v8a\\librrc_image.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "artifactName": "react_codegen_rnasyncstorage",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\haris\\CascadeProjects\\roadx\\mobile-app\\android\\app\\build\\intermediates\\cxx\\Debug\\2l254i2a\\obj\\arm64-v8a\\libreact_codegen_rnasyncstorage.so",
+      "runtimeFiles": [
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\e5aa34078a1b1b2ea477b10e4160adec\\transformed\\fbjni-0.5.1\\prefab\\modules\\fbjni\\libs\\android.arm64-v8a\\libfbjni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\folly_runtime\\libs\\android.arm64-v8a\\libfolly_runtime.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\glog\\libs\\android.arm64-v8a\\libglog.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\jsi\\libs\\android.arm64-v8a\\libjsi.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_codegen_rncore\\libs\\android.arm64-v8a\\libreact_codegen_rncore.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_debug\\libs\\android.arm64-v8a\\libreact_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_nativemodule_core\\libs\\android.arm64-v8a\\libreact_nativemodule_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_core\\libs\\android.arm64-v8a\\libreact_render_core.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_debug\\libs\\android.arm64-v8a\\libreact_render_debug.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_graphics\\libs\\android.arm64-v8a\\libreact_render_graphics.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\react_render_imagemanager\\libs\\android.arm64-v8a\\libreact_render_imagemanager.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_image\\libs\\android.arm64-v8a\\librrc_image.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\rrc_view\\libs\\android.arm64-v8a\\librrc_view.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\turbomodulejsijni\\libs\\android.arm64-v8a\\libturbomodulejsijni.so",
+        "C:\\Users\\haris\\.gradle\\caches\\transforms-3\\166028c4bd1db2751b3fbe7e895fc256\\transformed\\react-android-0.73.2-debug\\prefab\\modules\\yoga\\libs\\android.arm64-v8a\\libyoga.so"
+      ]
+    }
+  }
+}
